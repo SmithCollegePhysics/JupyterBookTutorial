@@ -1,0 +1,1 @@
+Add a file called .nojekyll alongside your book’s contents. This tells GitHub Pages to treat your files as a “static HTML website”.
